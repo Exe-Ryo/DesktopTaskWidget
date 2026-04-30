@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\1487006\\Documents\\New project\\DesktopTaskWidget\\DesktopTaskWidget.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\1487006\\Documents\\New project\\DesktopTaskWidget\\DesktopTaskWidget.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1487006\\Documents\\New project\\DesktopTaskWidget\\DesktopTaskWidget.csproj",
+        "projectName": "DesktopTaskWidget",
+        "projectPath": "C:\\Users\\1487006\\Documents\\New project\\DesktopTaskWidget\\DesktopTaskWidget.csproj",
+        "packagesPath": "C:\\Users\\1487006\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1487006\\Documents\\New project\\DesktopTaskWidget\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1487006\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_winsqlite3": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

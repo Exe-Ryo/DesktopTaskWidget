@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "nO6elZUXmB/akrgpWKOrd7fQvnJ2XN3dyLAydvCGVR+hc5YvJz7CZOwC3wMRAhcxvVueRuF9o7VICiNvtpVOvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1487006\\Documents\\New project\\DesktopTaskWidget\\DesktopTaskWidget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1487006\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.5\\microsoft.data.sqlite.core.8.0.5.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\sqlitepclraw.bundle_winsqlite3\\2.1.6\\sqlitepclraw.bundle_winsqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\sqlitepclraw.provider.winsqlite3\\2.1.6\\sqlitepclraw.provider.winsqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\1487006\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
